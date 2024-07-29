@@ -2,6 +2,7 @@ Group 2 - Animal Tracker Application
 
 Our demo video also shows how to setup and use our application visually. 
 
+Here is the link to our demo video: https://youtu.be/wMs0mWJNJU4
 ===================================
 Getting things running 
 
