@@ -179,7 +179,7 @@ def reset_password():
         user_found = False
         with open(csv_file, mode="r") as file:
             reader = csv.reader(file)
-            next(reader)  # Skip header
+            next(reader)
             for row in reader:
                 if row[0] == email:
                     user_found = True
