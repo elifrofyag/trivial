@@ -1,4 +1,4 @@
 def main():
-    """check if there is enough memm"""
+    """check if there is mem"""
 
 main()
