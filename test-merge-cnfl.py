@@ -1,4 +1,4 @@
 def main():
-    print("everything is ookay")
+    """check if there is enough memm"""
 
 main()
