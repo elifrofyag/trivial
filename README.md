@@ -1,10 +1,9 @@
 # Animal Tracker Application
 
-This is a Python application designed to track the location of an animal in real-time using data retrieved from an Arduino server. It displays the animal's location on a Google Map and alerts you if the animal goes outside a designated safe zone.
+This is a Python application designed to track the location of an animal in real-time using data retrieved from an Arduino server. It displays the animal's location on a Google Map using Google Maps API and alerts you if the animal goes outside a designated safe zone.
 
 **Demo Video:**
 
-[Link to your demo video]
 
 ## System Requirements
 
